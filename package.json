@@ -1,5 +1,5 @@
 {
-  "name": "noop",
+  "name": "nooop",
   "version": "1.0.0",
   "description": "Just a no-operation funciton.",
   "main": "index.js",

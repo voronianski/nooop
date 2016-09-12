@@ -1,18 +1,18 @@
-# noop
+# nooop
 
 > Just a no-operation function.
 
 ## Install
 
 ```bash
-npm install noop --save 
+npm install nooop --save 
 ```
 
 ## Usage
 
 ```js
 import React, { Component, PropTypes } from 'react';
-import noop from 'noop';
+import noop from 'nooop';
 
 class Child extends Component {
   static propTypes = {
